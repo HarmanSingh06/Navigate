@@ -1,2 +1,2 @@
-# p5.play-boilerplate
-Boiler plate for p5.play
+# Navigate Task
+In this task you have to make the spaceship go through all the obstacles.
